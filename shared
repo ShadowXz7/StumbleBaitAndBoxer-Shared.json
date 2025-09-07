@@ -1,104 +1,343 @@
-{ "SkinID": "SKIN1", "Hidden": false, "NoGacha": false, "FriendlyName": "Stumble", "Rarity": "COMMON", "Tier": 0, "RequiredShards": 0 },
-{ "SkinID": "SKIN2", "Hidden": false, "NoGacha": false, "FriendlyName": "Ms. Stumble", "Rarity": "COMMON", "Tier": 0, "RequiredShards": 0 },
-{ "SkinID": "SKIN3", "Hidden": false, "NoGacha": false, "FriendlyName": "Mr. Business", "Rarity": "COMMON", "Tier": 1, "RequiredShards": 0 },
-{ "SkinID": "SKIN5", "Hidden": false, "NoGacha": false, "FriendlyName": "Punk Dude", "Rarity": "UNCOMMON", "Tier": 2, "RequiredShards": 0 },
-{ "SkinID": "SKIN6", "Hidden": false, "NoGacha": false, "FriendlyName": "Fireman Ash", "Rarity": "COMMON", "Tier": 1, "RequiredShards": 0 },
-{ "SkinID": "SKIN7", "Hidden": false, "NoGacha": false, "FriendlyName": "Sailor Sean", "Rarity": "COMMON", "Tier": 1, "RequiredShards": 0 },
-{ "SkinID": "SKIN8", "Hidden": false, "NoGacha": false, "FriendlyName": "Miner Mike", "Rarity": "COMMON", "Tier": 1, "RequiredShards": 0 },
-{ "SkinID": "SKIN9", "Hidden": false, "NoGacha": false, "FriendlyName": "Private Davis", "Rarity": "COMMON", "Tier": 1, "RequiredShards": 0 },
-{ "SkinID": "SKIN11", "Hidden": false, "NoGacha": false, "FriendlyName": "Viking Björn", "Rarity": "UNCOMMON", "Tier": 2, "RequiredShards": 0 },
-{ "SkinID": "SKIN12", "Hidden": false, "NoGacha": false, "FriendlyName": "Disco Dan", "Rarity": "UNCOMMON", "Tier": 2, "RequiredShards": 0 },
-{ "SkinID": "SKIN13", "Hidden": false, "NoGacha": false, "FriendlyName": "Officer Mark", "Rarity": "UNCOMMON", "Tier": 2, "RequiredShards": 0 },
-{ "SkinID": "SKIN14", "Hidden": false, "NoGacha": false, "FriendlyName": "Colt Eastwood", "Rarity": "COMMON", "Tier": 1, "RequiredShards": 0 },
-{ "SkinID": "SKIN15", "Hidden": false, "NoGacha": false, "FriendlyName": "Green Hood", "Rarity": "UNCOMMON", "Tier": 2, "RequiredShards": 0 },
-{ "SkinID": "SKIN16", "Hidden": false, "NoGacha": false, "FriendlyName": "Wizard", "Rarity": "RARE", "Tier": 3, "RequiredShards": 0 },
-{ "SkinID": "SKIN17", "Hidden": false, "NoGacha": false, "FriendlyName": "Sir Lancelot", "Rarity": "RARE", "Tier": 3, "RequiredShards": 0 },
-{ "SkinID": "SKIN18", "Hidden": false, "NoGacha": false, "FriendlyName": "Nurse Joy", "Rarity": "COMMON", "Tier": 1, "RequiredShards": 0 },
-{ "SkinID": "SKIN19", "Hidden": false, "NoGacha": false, "FriendlyName": "Farmer Eli", "Rarity": "COMMON", "Tier": 1, "RequiredShards": 0 },
-{ "SkinID": "SKIN20", "Hidden": false, "NoGacha": false, "FriendlyName": "Chef Gordon", "Rarity": "COMMON", "Tier": 1, "RequiredShards": 0 },
-{ "SkinID": "SKIN21", "Hidden": false, "NoGacha": false, "FriendlyName": "Ninja Higure", "Rarity": "EPIC", "Tier": 4, "RequiredShards": 0 },
-{ "SkinID": "SKIN22", "Hidden": false, "NoGacha": false, "FriendlyName": "Pirate Jack", "Rarity": "RARE", "Tier": 3, "RequiredShards": 0 },
-{ "SkinID": "SKIN23", "Hidden": false, "NoGacha": false, "FriendlyName": "Astronaut", "Rarity": "EPIC", "Tier": 4, "RequiredShards": 0 },
-{ "SkinID": "SKIN24", "Hidden": false, "NoGacha": false, "FriendlyName": "Swimmer Bob", "Rarity": "UNCOMMON", "Tier": 2, "RequiredShards": 0 },
-{ "SkinID": "SKIN26", "Hidden": false, "NoGacha": false, "FriendlyName": "Red Demon", "Rarity": "LEGENDARY", "Tier": 4, "RequiredShards": 0 },
-{ "SkinID": "SKIN28", "Hidden": false, "NoGacha": false, "FriendlyName": "Explorer", "Rarity": "COMMON", "Tier": 1, "RequiredShards": 0 },
-{ "SkinID": "SKIN29", "Hidden": false, "NoGacha": false, "FriendlyName": "Boxer Mike", "Rarity": "UNCOMMON", "Tier": 2, "RequiredShards": 0 },
-{ "SkinID": "SKIN30", "Hidden": false, "NoGacha": false, "FriendlyName": "Maximus", "Rarity": "EPIC", "Tier": 4, "RequiredShards": 0 },
-{ "SkinID": "SKIN31", "Hidden": false, "NoGacha": false, "FriendlyName": "Stumble Jin", "Rarity": "COMMON", "Tier": 1, "RequiredShards": 0 },
-{ "SkinID": "SKIN33", "Hidden": false, "NoGacha": false, "FriendlyName": "Red Racer", "Rarity": "RARE", "Tier": 3, "RequiredShards": 0 },
-{ "SkinID": "SKIN35", "Hidden": false, "NoGacha": false, "FriendlyName": "Frost Yeti", "Rarity": "EPIC", "Tier": 4, "RequiredShards": 0 },
-{ "SkinID": "SKIN36", "Hidden": false, "NoGacha": false, "FriendlyName": "Mime Rowan", "Rarity": "UNCOMMON", "Tier": 2, "RequiredShards": 0 },
-{ "SkinID": "SKIN37", "Hidden": false, "NoGacha": false, "FriendlyName": "Winter Blues", "Rarity": "UNCOMMON", "Tier": 2, "RequiredShards": 0 },
-{ "SkinID": "SKIN40", "Hidden": false, "NoGacha": false, "FriendlyName": "Inmate 613", "Rarity": "COMMON", "Tier": 1, "RequiredShards": 0 },
-{ "SkinID": "SKIN41", "Hidden": false, "NoGacha": false, "FriendlyName": "Lionel Pessi", "Rarity": "UNCOMMON", "Tier": 2, "RequiredShards": 0 },
-{ "SkinID": "SKIN42", "Hidden": false, "NoGacha": false, "FriendlyName": "Deep Diver", "Rarity": "EPIC", "Tier": 4, "RequiredShards": 0 },
-{ "SkinID": "SKIN43", "Hidden": false, "NoGacha": false, "FriendlyName": "Ranger Walker", "Rarity": "UNCOMMON", "Tier": 2, "RequiredShards": 0 },
-{ "SkinID": "SKIN44", "Hidden": false, "NoGacha": false, "FriendlyName": "Disco Daryl", "Rarity": "RARE", "Tier": 3, "RequiredShards": 0 },
-{ "SkinID": "SKIN45", "Hidden": false, "NoGacha": false, "FriendlyName": "Crusader", "Rarity": "RARE", "Tier": 3, "RequiredShards": 0 },
-{ "SkinID": "SKIN46", "Hidden": false, "NoGacha": false, "FriendlyName": "Roberto Carlose", "Rarity": "UNCOMMON", "Tier": 2, "RequiredShards": 0 },
-{ "SkinID": "SKIN47", "Hidden": false, "NoGacha": false, "FriendlyName": "Swimmer Bella", "Rarity": "COMMON", "Tier": 1, "RequiredShards": 0 },
-{ "SkinID": "SKIN48", "Hidden": false, "NoGacha": false, "FriendlyName": "Bigfoot", "Rarity": "RARE", "Tier": 3, "RequiredShards": 0 },
-{ "SkinID": "SKIN49", "Hidden": false, "NoGacha": false, "FriendlyName": "Chicken", "Rarity": "RARE", "Tier": 3, "RequiredShards": 0 },
-{ "SkinID": "SKIN50", "Hidden": false, "NoGacha": false, "FriendlyName": "Stumble Santa", "Rarity": "EPIC", "Tier": 4, "RequiredShards": 0 },
-{ "SkinID": "SKIN51", "Hidden": false, "NoGacha": false, "FriendlyName": "Christmas Elf", "Rarity": "RARE", "Tier": 3, "RequiredShards": 0 },
-{ "SkinID": "SKIN52", "Hidden": false, "NoGacha": false, "FriendlyName": "Clown Fizbo", "Rarity": "UNCOMMON", "Tier": 2, "RequiredShards": 0 },
-{ "SkinID": "SKIN53", "Hidden": false, "NoGacha": false, "FriendlyName": "Green Alien", "Rarity": "RARE", "Tier": 3, "RequiredShards": 0 },
-{ "SkinID": "SKIN54", "Hidden": false, "NoGacha": false, "FriendlyName": "Stumblebee", "Rarity": "RARE", "Tier": 3, "RequiredShards": 0 },
-{ "SkinID": "SKIN55", "Hidden": false, "NoGacha": false, "FriendlyName": "Stumble King", "Rarity": "LEGENDARY", "Tier": 4, "RequiredShards": 0 },
-{ "SkinID": "SKIN56", "Hidden": false, "NoGacha": false, "FriendlyName": "Tutankhamun", "Rarity": "EPIC", "Tier": 4, "RequiredShards": 0 },
-{ "SkinID": "SKIN57", "Hidden": false, "NoGacha": false, "FriendlyName": "StumbleBot Mk2", "Rarity": "EPIC", "Tier": 4, "RequiredShards": 0 },
-{ "SkinID": "SKIN58", "Hidden": false, "NoGacha": false, "FriendlyName": "Erikson", "Rarity": "UNCOMMON", "Tier": 2, "RequiredShards": 0 },
-{ "SkinID": "SKIN59", "Hidden": false, "NoGacha": false, "FriendlyName": "Gold Digger", "Rarity": "COMMON", "Tier": 1, "RequiredShards": 0 },
-{ "SkinID": "SKIN60", "Hidden": false, "NoGacha": false, "FriendlyName": "Dry Bones", "Rarity": "EPIC", "Tier": 4, "RequiredShards": 0 },
-{ "SkinID": "SKIN61", "Hidden": false, "NoGacha": false, "FriendlyName": "Beret Flint", "Rarity": "UNCOMMON", "Tier": 2, "RequiredShards": 0 },
-{ "SkinID": "SKIN62", "Hidden": false, "NoGacha": false, "FriendlyName": "Linebacker", "Rarity": "UNCOMMON", "Tier": 2, "RequiredShards": 0 },
-{ "SkinID": "SKIN63", "Hidden": false, "NoGacha": false, "FriendlyName": "Stumble Witch", "Rarity": "RARE", "Version": "0.22", "Tier": 3, "RequiredShards": 0 },
-{ "SkinID": "SKIN64", "Hidden": false, "NoGacha": false, "FriendlyName": "Chilly Penguin", "Rarity": "EPIC", "Version": "0.22", "Tier": 4, "RequiredShards": 0 },
-{ "SkinID": "SKIN65", "Hidden": false, "NoGacha": false, "FriendlyName": "Leonidas", "Rarity": "LEGENDARY", "Version": "0.22", "Tier": 4, "RequiredShards": 0 },
-{ "SkinID": "SKIN66", "Hidden": false, "NoGacha": false, "FriendlyName": "Megalodon", "Rarity": "EPIC", "Version": "0.23", "Tier": 4, "RequiredShards": 0 },
-{ "SkinID": "SKIN67", "Hidden": false, "NoGacha": false, "FriendlyName": "Hatchling", "Rarity": "RARE", "Version": "0.24", "Tier": 3, "RequiredShards": 0 },
-{ "SkinID": "SKIN68", "Hidden": false, "NoGacha": false, "FriendlyName": "Red Fox", "Rarity": "EPIC", "Version": "0.24", "Tier": 4, "RequiredShards": 0 },
-{ "SkinID": "SKIN69", "Hidden": false, "NoGacha": false, "FriendlyName": "T-Rex", "Rarity": "EPIC", "Version": "0.24", "Tier": 4, "RequiredShards": 0 },
-{ "SkinID": "SKIN70", "Hidden": false, "NoGacha": false, "FriendlyName": "Mr. Stumble (Retro)", "Rarity": "COMMON", "Version": "0.24", "Tier": 1, "RequiredShards": 0 }
-let User = {
-  Username: "Fire7 KnG",
-  Skins: [],
-  RewardID: ""
-};
-
-let Shared = {
-  Skins_v4: [
-    { SkinID: 1, Name: "Default" },
-    { SkinID: 2, Name: "Ninja" },
-    { SkinID: 3, Name: "Robot" }
-  ]
-};
-
-function setNickname() {
-  if (User.Username === "Fire7 KnG") {
-    User.Username = "<color=red>ShadowXz<#FDD700><sup>[DEV]";
-  }
-}
-
-function getRewardID() {
-  return "activate_emotes";
-}
-
-function activateCosmetics() {
-  Shared.Skins_v4.forEach(sharedSkin => {
-    User.Skins.push(sharedSkin.SkinID);
-  });
-
-  let rewardID = getRewardID();
-  let buffer = Buffer.from(rewardID, "utf-8");
-  User.RewardID = buffer.toString("base64");
-}
-
-setNickname();
-activateCosmetics();
-
-console.log("Usuário atualizado:");
-console.log(User);
+{
+  "AdSettings": {
+    "AdRankLimit": 35,
+    "AgeSettings": {
+      "AskAge": false,
+      "Countries": [
+        "IN",
+        "FI"
+      ]
+    },
+    "BannerSettings": {
+      "Countries": [
+        "FI"
+      ],
+      "UseBanners": false
+    },
+    "DisableForDevices": [
+      "moto g(9) play",
+      "motorola moto g(9) play",
+      "motorola moto g(9) power",
+      "motorola moto g(30)",
+      "moto e(6s)",
+      "moto e6s",
+      "motorola moto e(6s)",
+      "motorola moto e6s"
+    ],
+    "InterstitialSettings": {
+      "CountrySettings": [
+        {
+          "Country": "IN",
+          "DisableInterstitials": false,
+          "IntervalSeconds": 100
+        }
+      ],
+      "DefaultDisableInterstitials": false,
+      "DefaultIntervalSeconds": 240
+    },
+    "RewardedCount": 0,
+    "RewardedDisabled": false,
+    "UseRewardedAdLimit": true,
+    "UseTestAds": false
+  },
+  "AnalyticsSettings": {
+    "PerformanceAnalyticsIntervalMinutes": 10
+  },
+  "Animations": [
+    "animation1",
+    "animation2",
+    "animation3",
+    "animation4",
+    "animation5",
+    "animation6",
+    "animation7",
+    "animation8",
+    "animation9",
+    "animation10",
+    "animation11",
+    "animation12",
+    "animation_thriller",
+    "animation_zombie",
+    "Victory015_Shuffle",
+    "Victory016_Moonwalk",
+    "Victory017_Selfie",
+    "Victory018_Fighting",
+    "Victory019_Bow",
+    "Victory020_Floss",
+    "Victory021_Airplane",
+    "Victory024_TheWorm",
+    "Victory028_ButtShake"
+  ],
+  "Animations_v2": [
+    {
+      "ID": "animation1",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "Victory",
+      "Rarity": "COMMON",
+      "Tier": 1,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "animation3",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "Jumping Jacks",
+      "Rarity": "UNCOMMON",
+      "Tier": 2,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "animation4",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "Celebrate",
+      "Rarity": "UNCOMMON",
+      "Tier": 2,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "animation6",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "Footwork",
+      "Rarity": "UNCOMMON",
+      "Tier": 2,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "animation7",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "Shimmy",
+      "Rarity": "UNCOMMON",
+      "Tier": 2,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "animation_zombie",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "Zombie Dance",
+      "Rarity": "RARE",
+      "Tier": 3,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "animation2",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "Sway",
+      "Rarity": "RARE",
+      "Tier": 3,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "animation5",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "Ripaska",
+      "Rarity": "RARE",
+      "Tier": 3,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "animation8",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "Breakdown",
+      "Rarity": "RARE",
+      "Tier": 3,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "animation9",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "Posing",
+      "Rarity": "RARE",
+      "Tier": 3,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "animation10",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "Backflip",
+      "Rarity": "RARE",
+      "Tier": 3,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "Victory015_Shuffle",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "Shuffle",
+      "Rarity": "RARE",
+      "Tier": 3,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "Victory017_Selfie",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "Selfie",
+      "Rarity": "RARE",
+      "Tier": 3,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "Victory018_Fighting",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "Fighting",
+      "Rarity": "RARE",
+      "Tier": 3,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "Victory019_Bow",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "Bow",
+      "Rarity": "RARE",
+      "Tier": 3,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "Victory022_TheRobot",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "The Robot",
+      "Rarity": "RARE",
+      "Tier": 3,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "Victory026_Hearts",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "<3",
+      "Rarity": "RARE",
+      "Tier": 3,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "Victory031_ShadowBoxing",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "Shadow Boxing",
+      "Rarity": "RARE",
+      "Tier": 3,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "Victory032_CraneKick",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "Crane Kick",
+      "Rarity": "RARE",
+      "Tier": 3,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "Victory041_FlexingMuscles",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "Gym Flex",
+      "Rarity": "RARE",
+      "Tier": 3,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "Victory042_Samba",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "Samba Dance",
+      "Rarity": "RARE",
+      "Tier": 3,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "Victory047_RabbitImitation",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "Bunny Hop",
+      "Rarity": "RARE",
+      "Tier": 3,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "Victory049_TheMacarena",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "The Macarena",
+      "Rarity": "RARE",
+      "Tier": 3,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "animation_thriller",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "Thriller Dance",
+      "Rarity": "EPIC",
+      "Tier": 4,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "animation11",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "Dab",
+      "Rarity": "EPIC",
+      "Tier": 4,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "animation12",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "ROFL",
+      "Rarity": "EPIC",
+      "Tier": 4,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "Victory016_Moonwalk",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "Moonwalk",
+      "Rarity": "EPIC",
+      "Tier": 4,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "Victory020_Floss",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "Floss",
+      "Rarity": "EPIC",
+      "Tier": 4,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "Victory021_Airplane",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "Airplane",
+      "Rarity": "EPIC",
+      "Tier": 4,
+      "RequiredShards": 0
+    },
+    {
+      "ID": "Victory024_TheWorm",
+      "Hidden": false,
+      "NoGacha": true,
+      "FriendlyName": "The Worm",
+      "Rarity": "EPIC",
+      "Tier": 4,
+     4
 String[] partyMembers = new String[100];
 int count = 0;
 
